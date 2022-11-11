@@ -15,10 +15,10 @@ Even the algorithm for translating morse code is straightforward. To do this, we
 
 <b>MODULES USED</b>
 
-1. dictionary.py  :- To facilitate the translation, this component provides a morse code dictionary with matching key and value pairs.
-2. encryption.py  :- This module contains a function for converting standard text to morse code.
-3. decryption.py  :- TThis module's function converts morse code to regular text.
-4. gui.py         :- This is the module where the code can be executed using a simple GUI.
-5. gui_support.py :- This module uses try and except to import the correct library and display the GUI.
-6. run.py         :- This module is concerned with GUI code execution. For the sake of simplicity, it is terminal-based.
+1. Morse Code Dictionary.py  :- To facilitate the translation, this component provides a morse code dictionary with matching key and value pairs.
+2. Encryption.py  :- This module contains a function for converting standard text to morse code.
+3. Decryption.py  :- TThis module's function converts morse code to regular text.
+4. Graphics.py         :- This is the module where the code can be executed using a simple GUI.
+5. Graphics_support.py :- This module uses try and except to import the correct library and display the GUI.
+6. Main.py         :- This module is concerned with GUI code execution. For the sake of simplicity, it is terminal-based.
 
