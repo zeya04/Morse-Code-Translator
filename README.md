@@ -2,9 +2,10 @@
 
 An easy-to-use programme that can transform your regular text—including letters, numbers, and unique symbols—into an encrypted morse code. Additionally, it can decipher your morse code into regular text.
 
-![image](https://user-images.githubusercontent.com/104716226/201341597-f7c14579-270e-43da-97f5-7c556f925394.png)
+![image](https://user-images.githubusercontent.com/104716226/201341934-332824a4-0d49-4f08-9729-5d07663aa4ba.png)
 
-<b>MORSE CODE</b>
+
+<b><u> MORSE CODE </u></b>
 
 Morse code is a system for communicating in which regular text is changed into a series of on/off tones, lights/clicks, or dots/dashes that may be decoded by an expert. It honours Samuel F. B. Morse, the telegraph's namesake and inventor.
 
