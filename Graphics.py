@@ -45,7 +45,7 @@ class Toplevel1:
         top.minsize(148, 1)
         top.maxsize(1924, 1030)
         top.resizable(1, 1)
-        top.title("CryptoSuit")
+        top.title("Morse Code Translator")
         top.configure(background="grey")
 
         self.text1 = tk.Entry(top)
